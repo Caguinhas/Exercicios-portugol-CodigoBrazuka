@@ -1,2 +1,2 @@
-# Exercicios-portugol-CodigoBrazuka
- 10 exercícios concluídos do módulo de lógica de programação do curso formação Polkadot.
+# Exercícios-Portugol-CódigoBrazuka
+ Foram realizados dez exercícios no portugol para cumprir as atividades demandadas no curso de formação Polkadot pelo Código Brazuka
